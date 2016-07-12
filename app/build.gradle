@@ -5,8 +5,8 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.user.p1011_contentprovider"
-        minSdkVersion 16
+        applicationId "com.example.user.p1261_mediaplayer"
+        minSdkVersion 10
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

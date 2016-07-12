@@ -1,4 +1,4 @@
-package com.example.user.p1011_contentprovider;
+package com.example.user.p1261_mediaplayer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
