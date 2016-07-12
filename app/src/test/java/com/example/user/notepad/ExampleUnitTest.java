@@ -1,4 +1,4 @@
-package com.example.user.p1261_mediaplayer;
+package com.example.user.notepad;
 
 import org.junit.Test;
 

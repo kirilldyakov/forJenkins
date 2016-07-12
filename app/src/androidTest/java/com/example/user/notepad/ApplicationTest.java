@@ -1,4 +1,4 @@
-package com.example.user.p1261_mediaplayer;
+package com.example.user.notepad;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
